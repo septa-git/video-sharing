@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://anikazenow.live" target="_blank">
-    <img src="https://github.com/septa-git//blob/c39875dc6e1bc2db9d8371574a9ab3ed95ff3b93/public/icon-512x512.png" alt="Logo" width="140" height="140">
-  </a>
-
   <h2 align="center">Anikaze</h3>
 
   <p align="center">
@@ -47,8 +43,6 @@ Enjoy ad-free streaming and seamless progress tracking with AniList integration,
     - [ ] Comick
     - [ ] Mangadex
     - [ ] And some more
-
-See the [open issues](https://github.com//anikaze/issues) for a full list of proposed features (and known issues).
 
 
 ## Environment Variables
