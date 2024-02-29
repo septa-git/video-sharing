@@ -122,4 +122,4 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Project Link: [https://github.com/septa-git/anikaze](https://github.com/septa-git/anikaze)
-Anikaze Link: [https://github.com/septa-git/anikaze](Anikaze)
+Anikaze Link: [Anikaze](https://anikaze.vercel.app/)
