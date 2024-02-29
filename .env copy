@@ -1,0 +1,27 @@
+## Redis
+# If you don't want to use redis leave it empty or comment it.
+# REDIS_URL=""
+
+## AniList
+GRAPHQL_ENDPOINT=https://graphql.anilist.co
+ANILIST_CLIENT_ID="17220"
+ANILIST_CLIENT_SECRET="7hlYYlzvqnU398p1uXcwjYqY3ZLlmPzTlDhksobD"
+
+## NextAuth Details
+NEXTAUTH_SECRET='BVs1p+jjhu4Ow/mlkUR4p7junlf9meEB4qzOFzoLnpQ='
+NEXTAUTH_URL="https://anikaze.vercel.app"
+
+## NextJS
+NEXT_PUBLIC_PROXY_URI="https://51.159.111.59/"
+CONSUMET_URI="https://api.consumet.org"
+
+## MongoDB
+MONGODB_URI="mongodb+srv://myangkasasa:GxAJRKhHelscM5gM@cluster0.nrt1pdw.mongodb.net"
+ANALYZE=true
+
+## Deployment URLs
+NEXT_PUBLIC_DEV_URL="https://anikaze.vercel.app"  # This is the URL for your current local development environment.
+NEXT_PUBLIC_PRODUCTION_URL="https://anikaze.vercel.app"
+
+## In AniList Developer console add redirect url :
+# https://{your-domain}/api/auth/callback/AniListProvider
