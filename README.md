@@ -85,7 +85,7 @@ NEXT_PUBLIC_PRODUCTION_URL="Your deployement URL. Don't put / at the end of the 
 
 Clone the project
 ```bash
-  git clone https://github.com/septa-git/.git
+  git clone https://github.com/septa-git/video-sharing.git
 ```
 
 Go to the project directory
